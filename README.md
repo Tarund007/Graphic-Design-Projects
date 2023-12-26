@@ -1,2 +1,2 @@
-# Graphic-Deign
+# Graphic-Design
 Design's
